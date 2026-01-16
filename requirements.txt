@@ -1,0 +1,8 @@
+uvicorn
+fastapi
+streamlit
+langchain
+langchain-core
+langchain-community
+langchain-huggingface
+langgraph-supervisor
